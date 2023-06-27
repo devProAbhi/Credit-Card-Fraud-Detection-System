@@ -6,4 +6,4 @@
 -> It is important that credit card companies are able to recognize fraudulent credit card transactions so that customers are not charged for items that they did not purchase
 
 
--> In this project we built a model using CNN and other Machine learning algorithms which predicts if the transaction is genuine or fraudulent and we will get an accuracy upto 100%
+-> In this project we built a model using CNN and other Machine learning algorithms which predicts if the transaction is genuine or fraudulent and we will get an accuracy upto 99.99%
